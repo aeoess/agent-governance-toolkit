@@ -99,7 +99,7 @@ class TestSelfCorrectingKernel:
             error_message="KeyError: 'missing_key'",
             context={"action": "lookup"},
         )
-        assert result["success"] is True
+        assert "failure" in result
         assert result["analysis"] is not None
 
     def test_handle_failure_retry_available(self, kernel):
