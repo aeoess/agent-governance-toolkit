@@ -174,6 +174,7 @@ Full methodology, per-adapter breakdowns, and memory profiling: **[BENCHMARKS.md
 
 - **[Azure Deployment Guides](docs/deployment/README.md)** — AKS, Azure AI Foundry, Container Apps, OpenClaw sidecar
 - [OWASP Compliance Mapping](docs/OWASP-COMPLIANCE.md)
+- [Competitive Comparison](docs/COMPARISON.md) — vs. NeMo Guardrails, Guardrails AI, LiteLLM, Portkey
 - [CSA Agentic Trust Framework Mapping](docs/CSA-ATF-PROPOSAL.md)
 - [Changelog](CHANGELOG.md)
 - [Contributing Guide](CONTRIBUTING.md)
